@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Santoshwar</h1>
 <h3 align="center">A passionate Devops,Big data & cloud Engineer from India</h3>
 <div align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240308151957/reshot-icon-dog-WAPCLFVUXH---Copy.png" alt="Dog Image" width="400">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240308151957/reshot-icon-dog-WAPCLFVUXH---Copy.png" alt="Dog Image" width="200">
   <p><strong>Bardock</strong></p>
 </div>
 
