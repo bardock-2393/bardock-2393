@@ -1,32 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deep Santoshwar</h1>
 <h3 align="center">A passionate Devops,Big data & cloud Engineer from India</h3>
-<style>
-  .container {
-    position: relative;
-    width: 400px; /* Adjust the width as needed */
-  }
-  
-  .image {
-    width: 100%;
-    height: auto;
-  }
-  
-  .text {
-    position: absolute;
-    bottom: 10px; /* Adjust the position of the text */
-    left: 10px; /* Adjust the position of the text */
-    font-size: 24px; /* Adjust the font size as needed */
-    color: white; /* Adjust the color of the text */
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /* Optional: Add a shadow to the text */
-  }
-</style>
-</head>
-<body>
-
-<div class="container">
-  <img class="image" src="https://media.geeksforgeeks.org/wp-content/uploads/20240308151957/reshot-icon-dog-WAPCLFVUXH---Copy.png" alt="Dog">
-  <div class="text">Bardock</div>
+<div align="center">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240308151957/reshot-icon-dog-WAPCLFVUXH---Copy.png" alt="Dog Image" width="400">
+  <p><strong>Bardock</strong></p>
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bardock-2393&label=Profile%20views&color=0e75b6&style=flat" alt="bardock-2393" /> </p>
 <img align="right" alt="Coding" width="400" src="https://ibb.co/jwpd6Mg">
