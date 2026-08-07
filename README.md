@@ -7,14 +7,14 @@
 </td>
 <td valign="top">
 
-I'm an open source dev, freelancing on the side, shipping AI apps and SaaS onto the internet.
+I'm an open source dev, freelancing on the side, spamming AI apps and SaaS onto the internet.
 
 What do I work on? Honestly, everything — if it's a problem worth solving, I'm in. Love designing scalable systems.
 
 **Stack:**
-<img src="https://skillicons.dev/icons?i=python,ts,cpp,kotlin,swift,nextjs,fastapi,flutter,aws,gcp,docker,kubernetes,postgres,mongodb,kafka" />
+<img src="https://skillicons.dev/icons?i=python,ts,cpp,kotlin,react,fastapi,flutter,aws,gcp,docker,kubernetes,postgres,mongodb,kafka" />
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/deep-santoshwar/) · [deepsantoshwar7@gmail.com](mailto:deepsantoshwar7@gmail.com) · [deepsantoshwar.com](https://www.deepsantoshwar.com)
+
 
 </td>
 </tr>
